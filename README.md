@@ -1,4 +1,4 @@
-# CAPM1_ComputerShop
+# NexGen_ComputerShop
 > Computer Shop CRUD with OAuth2.0
 
 ## How to run the Project
@@ -18,6 +18,8 @@
     - Metadata URL {.../catalog/$metadata}
 
 
+## Links
+
 Hire your AI Sr. Developer @20 dollar
 https://nexgen.codes/
 
@@ -30,6 +32,11 @@ https://discovery.nexgencompany.ai/
 Corporate Training Partner:
 https://acloudguruji.com/
 
+
+## Contact
+
+LinkedIn: 
+https://www.linkedin.com/in/parthasap/
 
 
 
