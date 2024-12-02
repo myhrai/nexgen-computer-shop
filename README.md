@@ -7,7 +7,7 @@
 3. Project will open in the workbench of NexGen.codes
 4. For Local Test - Open Termminal, use commands: npm i, cds watch
 5. For BTP CF Deployment - Just click on the Deploy BTP Button
-6. You will get the application uo and running in your BTP -> Cloud Foundry -> Space
+6. You will get the application up and running in your BTP -> Cloud Foundry -> Space
 7. Open the applicaiton URL, you can see the metadata
 8. The applicaiton is protected with OAuth2.0
 9. Grab the OAuth Token as per the instruction in the tutorial video
