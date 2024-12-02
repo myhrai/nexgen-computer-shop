@@ -29,9 +29,9 @@ modules:
     buildpack: nodejs_buildpack
 
 
-- name: capm1-computershop-batch2-approuter
+- name: nexgen-computershop-approuter
   type: approuter.nodejs
-  path: capm1-computershop-batch2-approuter
+  path: nexgen-computershop-approuter
   requires:
   - name: NexGen_ComputerShop_html_repo_runtime
   - name: uaa_NexGen_ComputerShop
